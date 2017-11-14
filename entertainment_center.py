@@ -1,4 +1,4 @@
-simport media
+import media
 import fresh_tomatoes
 
 toy_story = media.Movie("Toy Story",
