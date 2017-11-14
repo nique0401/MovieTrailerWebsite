@@ -1,5 +1,5 @@
 # MovieTrailerWebsite
-This program will open up a Movie trailer website of my favorite movies, and allow users to 
+This program will open up a Movie trailer website of my favorite movies, and allow users to view movie trailers of these movies.
 
 # Installation
 Place all files into same folder,
