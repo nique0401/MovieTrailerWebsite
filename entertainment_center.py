@@ -1,3 +1,4 @@
+
 import media
 import fresh_tomatoes
 
@@ -35,6 +36,7 @@ ratatouille = media.Movie(
     "a rat is a chef in Paris",
     "http://au.movieposter.com/posters/archive/main/50/MPW-25274",  # NOQA
     "https://www.youtube.com/watch?v=uVeNEbh3A4U")
+
 """Gives information about the movie Matrix to send to the Movie class"""
 matrix = media.Movie(
     "The Matrix",
