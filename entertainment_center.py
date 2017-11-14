@@ -1,4 +1,4 @@
-import media
+simport media
 import fresh_tomatoes
 
 toy_story = media.Movie("Toy Story",
@@ -16,7 +16,7 @@ dark_knight = media.Movie("The Dark Knight",
                            "http://host.trivialbeing.org/up/tdk-new-dark-knight-poster-hi-res201949id1.jpg",
                            "https://www.youtube.com/watch?v=EXeTwQWrcwY")
 
-Simpsons = media.Movie("The Simpsons Movie",
+simpsons = media.Movie("The Simpsons Movie",
                        "Simpsons appear on the movie screen when their city is threatened",
                        "http://cdn2-www.comingsoon.net/assets/uploads/2007/06/file_21156_0_simpsonsnewposter2.jpg",
                        "https://www.youtube.com/watch?v=6W7PQpTTpec")
